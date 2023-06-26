@@ -7,7 +7,9 @@ In the following example, the first player (X) wins the game in seven steps:
 
 Game of Tic-tac-toe, won by X
 There is no universally agreed rule as to who plays first, but in this article the convention that X plays first is used.
-![Uploading Tic-tac-toe-game-1.svg.png…]()
+
+![image](https://github.com/Luckyraut/Tic-Tac-Toe-game-/assets/136905559/de078086-ce43-4213-aedf-de20eff6b06e)
+
 Players soon discover that the best play from both parties leads to a draw. Hence, tic-tac-toe is often played by young children who may not have discovered the optimal strategy.
 
 Here are some of Screenshot of the project and their working given below !!
